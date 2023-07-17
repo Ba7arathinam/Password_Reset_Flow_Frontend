@@ -1,0 +1,1 @@
+export const API = "https://password-reset-eoz0.onrender.com";
